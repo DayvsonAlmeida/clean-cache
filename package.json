@@ -1,0 +1,7 @@
+{
+  "name": "clean-cache",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Dayvson <dayvsonwilkson@gmail.com>",
+  "license": "MIT"
+}
