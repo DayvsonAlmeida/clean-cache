@@ -4,6 +4,10 @@
   "main": "index.js",
   "author": "Dayvson <dayvsonwilkson@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "test": "jest --no-cache",
+    "test:watch": "jest --no-cache --watchAll"
+  },
   "devDependencies": {
     "@types/jest": "^26.0.22",
     "@types/node": "^14.14.37",
